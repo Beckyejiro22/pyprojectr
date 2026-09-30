@@ -22,7 +22,6 @@ Or using `uv`:
 ```bash
 uv add pyprojectr
 ```
->*** heheheheheheheheh
 ## Usage
 
 ### Loading a `pyproject.toml` file
